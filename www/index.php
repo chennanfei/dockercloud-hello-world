@@ -17,6 +17,6 @@
 </head>
 <body>
 	<img id="logo" src="logo.png" />
-	<h1>Welcome!</h1>
+	<h1>Welcome, guys!</h1>
 </body>
 </html>
