@@ -1,4 +1,8 @@
+
 version: "0.1.0"
+pre_ci_boot:
+    image: index.alauda.cn/library/ubuntu
+    tag: 14.04
 ci:
     - echo "hello world"
     - cp -r * $ALAUDACI_DEST_DIR
